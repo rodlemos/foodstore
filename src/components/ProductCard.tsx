@@ -9,7 +9,7 @@ interface Props {
 export function ProductCard({ image, price, title }: Props) {
   return (
     <div className="max-w-xs mx-auto py-6 border-b border-b-darkPink/40">
-      <img src={image} alt="" className="w-full object-cover" />
+      <img src={image} alt="" className="w-full object-cover aspect-video" />
 
       <footer className="flex justify-between mt-6 items-center">
         <div>

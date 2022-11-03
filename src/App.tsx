@@ -63,29 +63,29 @@ function App() {
               image="https://s2.glbimg.com/6NJ-nN-KLUos4FXzFs1A_h0LZek=/0x0:380x220/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2012/06/13/15/43/26/361/bolo_floresta_negra.jpg"
             />
             <ProductCard
-              title="Bolo Floresta Negra"
-              price="125,00"
-              image="https://s2.glbimg.com/6NJ-nN-KLUos4FXzFs1A_h0LZek=/0x0:380x220/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2012/06/13/15/43/26/361/bolo_floresta_negra.jpg"
+              title="Salgados sortidos (100 unidades)"
+              price="95,00"
+              image="https://img77.uenicdn.com/image/upload/v1571243996/service_images/shutterstock_797089780.jpg"
             />
             <ProductCard
-              title="Bolo Floresta Negra"
-              price="125,00"
-              image="https://s2.glbimg.com/6NJ-nN-KLUos4FXzFs1A_h0LZek=/0x0:380x220/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2012/06/13/15/43/26/361/bolo_floresta_negra.jpg"
+              title="Camafeu (50 unidades)"
+              price="75,00"
+              image="https://img.elo7.com.br/product/zoom/2C518F1/camafeu-camafeu-de-nozes.jpg"
             />
             <ProductCard
-              title="Bolo Floresta Negra"
-              price="125,00"
-              image="https://s2.glbimg.com/6NJ-nN-KLUos4FXzFs1A_h0LZek=/0x0:380x220/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2012/06/13/15/43/26/361/bolo_floresta_negra.jpg"
+              title="Cupcake Chocolate com caramelo"
+              price="9,50"
+              image="https://vocegastro.com.br/app/uploads/2021/09/receita-de-cupcake-de-chocolate.jpg"
             />
             <ProductCard
-              title="Bolo Floresta Negra"
-              price="125,00"
-              image="https://s2.glbimg.com/6NJ-nN-KLUos4FXzFs1A_h0LZek=/0x0:380x220/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2012/06/13/15/43/26/361/bolo_floresta_negra.jpg"
+              title="Quiche a unidade"
+              price="16,00"
+              image="https://blog.eduk.com.br/wp-content/uploads/2020/07/original-d90f7d298aeed43b2299a82819dafd54-scaled.jpeg"
             />
             <ProductCard
-              title="Bolo Floresta Negra"
-              price="125,00"
-              image="https://s2.glbimg.com/6NJ-nN-KLUos4FXzFs1A_h0LZek=/0x0:380x220/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2012/06/13/15/43/26/361/bolo_floresta_negra.jpg"
+              title="Bolo Red Velvet"
+              price="100,00"
+              image="https://1.bp.blogspot.com/-BY8s6HnHYO0/XPBGNiaMuWI/AAAAAAAAOPE/GGcnlScWSywZvScnQQT5n452Cr38QRBiACLcBGAs/w1200-h630-p-k-no-nu/naked-cake-red-velvet.JPG"
             />
           </div>
         </section>
