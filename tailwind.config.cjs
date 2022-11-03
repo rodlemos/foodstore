@@ -11,7 +11,7 @@ module.exports = {
         "max-sm": { max: "639px" },
       },
       backgroundImage: {
-        hero: "url('./cakebg.jpg')",
+        hero: "url('/cakebg.jpg')",
       },
       colors: {
         darkPink: "#8E5572",
